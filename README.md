@@ -11,10 +11,6 @@ This Project is a Simple ReactJS Project which demonstrates the following
 
 The project Template can be used to build bigger projects
 
-## Live Application URL
-
-### https://aditya-sridhar.github.io/simple-reactjs-app
-This URL has the application deployed in
 
 ## Prerequisites
 
@@ -29,13 +25,6 @@ npm install -g create-react-app
 ```
 
 
-
-
-Click on the link to see the application
-
-## Cloning and Running the Application in local
-
-Clone the project into local
 
 
 
